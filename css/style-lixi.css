@@ -176,3 +176,27 @@ h1 {font-size:6rem;}
 
 
 /* end product */
+
+/* contact us */
+.subscription{padding-top:75px;padding-bottom:75px;background:url(../images/bgr/subscription_bg.jpg) no-repeat 50%;background-size:cover; margin-bottom: 50px;}
+.subscription-box{width:930px;height:277px;background-color:#fff;margin:0 auto}
+
+.subscription-desc{width:450px;padding:40px 60px;float:left}
+.subscription-desc .phone{display:block;background:url(../images/bgr/hand_icon.jpg) no-repeat;height:42px;padding-left:55px;font-size:30px;color:#00a76f;margin-bottom:30px}
+.subscription-desc .help-text{font-size:14px;line-height:24px}
+
+.subscription-form{float:right;width:420px;margin-right:60px;padding-top:40px}
+.subscription-form h4{font-size:14px;color:#00a76f;text-align:center;line-height:24px;margin-bottom:24px}
+.subscription-form .input-group label{display:block;width:105px;height:40px;border:1px solid #cdcdcd;border-right:0;line-height:38px;font-size:14px;text-indent:16px;margin:0}
+.subscription-form .input-group:first-child label{border-bottom:.5px solid #cdcdcd}
+.subscription-form .input-group:nth-child(2) label{border-top:.5px solid #cdcdcd}
+.subscription-form .input-group label.focus{border-color:#002c1d;border-bottom:1px solid #002c1d;background-color:#f7f7f7}
+.subscription-form .input-group:nth-child(2) label.focus{border-color:#002c1d;border-top:1px solid #002c1d}
+.subscription-form .input-group input{height:40px;border:1px solid #cdcdcd;border-left:0;width:314px;line-height:40px;font-size:14px}
+.subscription-form .input-group:first-child input{border-bottom:.5px solid #cdcdcd}
+.subscription-form .input-group:nth-child(2) input{border-top:.5px solid #cdcdcd}
+.subscription-form .input-group input:focus{border-color:#002c1d;border-bottom:1px solid #002c1d;background-color:#f7f7f7}
+.subscription-form .input-group:nth-child(2) input:focus{border-top:1px solid #002c1d}
+.subscription-form .input-submit{margin-top:10px;text-align:center}
+.subscription-form .input-submit button{width:120px;height:40px;background-color:#00a76f;color:#fff;border:0;font-size:14px;cursor:pointer}
+/* end contact us */
