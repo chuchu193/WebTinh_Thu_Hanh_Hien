@@ -210,7 +210,6 @@ h1 {font-size:6rem;}
 .footer-blocks p{line-height:28px;margin-bottom:0}
 .footer-blocks ul li{display:block;line-height:28px;text-align:center;width:100%}
 .footer-sns .facebook{display:inline-block;text-indent:-9999px;width:15px;background:url(../images/bgr/facebook.png) no-repeat 50%}
-.footer-sns .instagram{margin-left:10px!important;display:inline-block;text-indent:-9999px;width:15px;background:url(../images/bgr/instagram.png) no-repeat 50%}
 .footer-blocks form{padding-left:30px;padding-top:43px}
 .footer-blocks form label{text-align:center}
 .footer-blocks form .input-group,.footer-blocks form .input-submit{float:left}
@@ -219,5 +218,4 @@ h1 {font-size:6rem;}
 .footer-blocks form .input-group input:focus{border:1px solid #002c1d;background-color:#f7f7f7;border-right:0}
 .footer-blocks form .input-submit button{width:40px;height:40px;background:url(../images/bgr/paper_plane.png) no-repeat 50%;text-indent:-9999px;border:1px solid #cdcdcd;border-left:0;cursor:pointer}
 .footer-blocks form .input-submit button.focus{border:1px solid #002c1d;background-color:#f7f7f7;border-left:0}
-.footer-blocks .footer-view-map{display:inline-block;background:url(../images/bgr/map_pointer.png) no-repeat 0;padding-left:15px;border-bottom:1px solid #002c1d;line-height:18px}
 /* end footer */
