@@ -200,3 +200,24 @@ h1 {font-size:6rem;}
 .subscription-form .input-submit{margin-top:10px;text-align:center}
 .subscription-form .input-submit button{width:120px;height:40px;background-color:#00a76f;color:#fff;border:0;font-size:14px;cursor:pointer}
 /* end contact us */
+
+/* footer */
+.content-info {display:block}
+.content-info{padding-top:243px;padding-bottom:48px;background-color:#fff;border-bottom:5px solid #00a76f;background:url(../images/logo_footer.jpg) no-repeat;background-position:center 70px}.footer-blocks{width:25%;float:left;text-align:center;font-size:14px;border-right:1px solid #cdcdcd;height:112px}.footer-blocks:last-child{border-right:0}
+
+.footer-blocks{width:25%;float:left;text-align:center;font-size:14px;border-right:1px solid #cdcdcd;height:112px}
+.footer-blocks:last-child{border-right:0}
+.footer-blocks p{line-height:28px;margin-bottom:0}
+.footer-blocks ul li{display:block;line-height:28px;text-align:center;width:100%}
+.footer-sns .facebook{display:inline-block;text-indent:-9999px;width:15px;background:url(../images/bgr/facebook.png) no-repeat 50%}
+.footer-sns .instagram{margin-left:10px!important;display:inline-block;text-indent:-9999px;width:15px;background:url(../images/bgr/instagram.png) no-repeat 50%}
+.footer-blocks form{padding-left:30px;padding-top:43px}
+.footer-blocks form label{text-align:center}
+.footer-blocks form .input-group,.footer-blocks form .input-submit{float:left}
+.footer-blocks form .input-group{width:207px}
+.footer-blocks form .input-group input{border:1px solid #cdcdcd;height:40px;line-height:40px;width:100%;border-right:0;padding:0 15px}
+.footer-blocks form .input-group input:focus{border:1px solid #002c1d;background-color:#f7f7f7;border-right:0}
+.footer-blocks form .input-submit button{width:40px;height:40px;background:url(../images/bgr/paper_plane.png) no-repeat 50%;text-indent:-9999px;border:1px solid #cdcdcd;border-left:0;cursor:pointer}
+.footer-blocks form .input-submit button.focus{border:1px solid #002c1d;background-color:#f7f7f7;border-left:0}
+.footer-blocks .footer-view-map{display:inline-block;background:url(../images/bgr/map_pointer.png) no-repeat 0;padding-left:15px;border-bottom:1px solid #002c1d;line-height:18px}
+/* end footer */
