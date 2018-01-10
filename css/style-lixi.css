@@ -1,6 +1,6 @@
 body {font-family:Arial,Helvetica,sans-serif;}
 
-.overlay			{position:relative;z-index:900;}
+.overlay			{position:relative;z-index:900;margin-bottom: -30px;}
 .main 				{padding:90px 40px;text-align:center; min-height: 535px;}
 
 
@@ -45,19 +45,19 @@ h1 {font-size:6rem;}
 .open:focus img {opacity:0;}
 
 .b310 	 				{width:310px;}
-.b310:after 			{bottom:320px; height: 85px;}
+.b310:after 			{bottom:320px; height: 78px;}
 .b310 a 				{width:290px;height:290px;}
 .b310 .greeting-wish 	{width:290px;height:290px;}
 .b310 img 			{-webkit-border-radius:145px;-moz-border-radius:145px;border-radius:145px;}
 
 .b300 	 				{width:300px;height:300px;}
-.b300:after 			{bottom:310px;}
+.b300:after 			{bottom:310px;height: 264px;}
 .b300 a 				{width:280px;height:280px;}
 .b300 .greeting-wish 	{width:280px;height:280px;}
 .b300 img 			{-webkit-border-radius:140px;-moz-border-radius:140px;border-radius:140px;}
 
 .b240					{width:240px;height:240px;}
-.b240:after			{bottom:250px; height: 55px;}
+.b240:after			{bottom:250px; height: 50px;}
 .b240 a 				{width:220px;height:220px;}
 .b240 .greeting-wish 	{width:220px;height:220px;}
 .b240 p 				{font-size:13px;}
@@ -79,7 +79,7 @@ h1 {font-size:6rem;}
 .b185 img 			{-webkit-border-radius:83px;-moz-border-radius:83px;border-radius:83px;}
 
 .b160					{width:160px;}
-.b160:after 			{bottom:170px;height:35px;}
+.b160:after 			{bottom:170px;height:28px;}
 .b160 a 				{width:140px;height:140px;}
 .b160 .greeting-wish	{width:140px;height:140px;}
 .b160 h2				{font-size:16px;}
