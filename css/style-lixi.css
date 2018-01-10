@@ -1,7 +1,7 @@
 body {font-family:Arial,Helvetica,sans-serif;}
 
 .overlay			{position:relative;z-index:900;}
-.main 				{padding:90px 40px;text-align:center; min-height: 480px;}
+.main 				{padding:90px 40px;text-align:center; min-height: 535px;}
 
 
 .foot			{position:relative;z-index:999;padding-top:40px;}
