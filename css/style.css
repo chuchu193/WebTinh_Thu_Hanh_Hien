@@ -106,7 +106,7 @@ td 	{vertical-align:middle;font-size:13px;font-weight:400;padding:8px 20px;}
 
 /* BACKGROUNDS */
 .lightsnow 	{background:#ddd url(../images/bgr/body_lightsnow.jpg) 0 0 repeat-x;color:#114532;}
-.paper 		{background:#BCCFC6 url(../images/bgr/body_paper.jpg) 50% 50% no-repeat;color:#114532; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
+.paper 		{background:#BCCFC6 url(../images/bgr/bg1.jpg) 50% 50% no-repeat;color:#114532; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
 .wall 			{background:#fff url(../images/bgr/body_brickwall.png) 50% 50% repeat;color:#114532;}
 .decor			{background:#3C444E url(../images/bgr/body_decor.jpg) 0 0 no-repeat;color:#fff; -webkit-background-size: 100% 100%;-moz-background-size: 100% 100%;-o-background-size: 100% 100%;background-size: 100% 100%;}
 .trees 			{background:url(../images/bgr/trees.png) 0 0 repeat-x;padding:86px 0 0 !important;position:relative;z-index:2;display:inline-block;width:100%;}
