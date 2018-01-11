@@ -6,7 +6,7 @@ article,aside,figure,figcaption,hgroup,footer,header,nav,section,video,object{di
 audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 
 /*TYPOGRAPHY*/
-body {font-size:14px;line-height:1.32;text-align:center;overflow-x:hidden;-webkit-text-size-adjust: none;font-family:Helvetica,Arial,sans-serif;}
+body {font-size:14px;line-height:1.32;text-align:center;overflow-x:hidden;-webkit-text-size-adjust: none;font-family: 'Pacifico', cursive;}
 
 h1 {font-weight:700;padding:0 0 20px;}
 h2 {font-weight:300;padding:0 0 20px;}
@@ -164,7 +164,7 @@ td 	{vertical-align:middle;font-size:13px;font-weight:400;padding:8px 20px;}
 .ribbon .logo 			{background:#fff;width:320px;position:relative;padding:0;}
 .ribbon .logo:after 	{content:"";position:absolute;top:0;right:-19px;width:0;height:0;border-style: solid;border-width: 35px 0 35px 19px;border-color: transparent transparent transparent #fff;}
 
-.ribbon .main-nav 			{float:left;}
+.ribbon .main-nav 			{float:left; font-family: 'Comfortaa', cursive;}
 .ribbon .main-nav li 		{float:left;height:70px;font-size:16px;line-height:70px;}
 .ribbon .main-nav li a 	{float:left;height:100%;color:#fff;padding:0 20px;-webkit-text-shadow:0 1px 0 #C80702;-moz-text-shadow:0 1px 0 #C80702;text-shadow:0 1px 0 #C80702;}
 .ribbon .main-nav li a:hover,
